@@ -1,0 +1,9 @@
+numpy==1.21.4
+pandas==1.2.0
+matplotlib==3.3.2
+sklearn
+pytorch==1.9.1
+gensim==4.0.1
+jieba
+tqdm
+simpletransformers
